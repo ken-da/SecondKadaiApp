@@ -13,6 +13,7 @@
 		3138552B28CAC9BC00A5ACE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3138552928CAC9BC00A5ACE1 /* Main.storyboard */; };
 		3138552D28CAC9BE00A5ACE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3138552C28CAC9BE00A5ACE1 /* Assets.xcassets */; };
 		3138553028CAC9BE00A5ACE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3138552E28CAC9BE00A5ACE1 /* LaunchScreen.storyboard */; };
+		3138553828CAD03C00A5ACE1 /* GreetingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3138553728CAD03C00A5ACE1 /* GreetingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3138552C28CAC9BE00A5ACE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3138552F28CAC9BE00A5ACE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3138553128CAC9BE00A5ACE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3138553728CAD03C00A5ACE1 /* GreetingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3138552328CAC9BC00A5ACE1 /* AppDelegate.swift */,
 				3138552528CAC9BC00A5ACE1 /* SceneDelegate.swift */,
 				3138552728CAC9BC00A5ACE1 /* ViewController.swift */,
+				3138553728CAD03C00A5ACE1 /* GreetingViewController.swift */,
 				3138552928CAC9BC00A5ACE1 /* Main.storyboard */,
 				3138552C28CAC9BE00A5ACE1 /* Assets.xcassets */,
 				3138552E28CAC9BE00A5ACE1 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				3138552828CAC9BC00A5ACE1 /* ViewController.swift in Sources */,
 				3138552428CAC9BC00A5ACE1 /* AppDelegate.swift in Sources */,
 				3138552628CAC9BC00A5ACE1 /* SceneDelegate.swift in Sources */,
+				3138553828CAD03C00A5ACE1 /* GreetingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
